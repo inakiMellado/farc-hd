@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+farc_hd/FarcHDClassifier.py
+farc_hd/__init__.py
+farc_hd.egg-info/PKG-INFO
+farc_hd.egg-info/SOURCES.txt
+farc_hd.egg-info/dependency_links.txt
+farc_hd.egg-info/requires.txt
+farc_hd.egg-info/top_level.txt
